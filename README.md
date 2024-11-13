@@ -1,5 +1,5 @@
-<H3>Enter Name:Shabreena Vincent </H3>
-<H3>Enter Register No: 212222230141</H3>
+<H3>Name:Shabreena Vincent </H3>
+<H3>Register No: 212222230141</H3>
 <H3>Experiment:2</H3>
 <H3>Date:        </H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
